@@ -2,8 +2,13 @@
  A modified 2 player version of tetris in which 2 agents compete to capture the most space and force their opponent to run out of moves.
 
 ## How To Run:
+```
 python3 -m referee <agent1> <agent2>
-e.g. python3 -m referee smart_agent random_agent
+```
+Example:
+```
+python3 -m referee smart_agent random_agent
+```
 
 There are two agents in this example:
 - random_agent : makes moves randomly and has no utility function.
