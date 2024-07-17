@@ -1,6 +1,6 @@
 # Tetress
  A modified 2 player version of tetris in which 2 agents compete to capture the most space and force their opponent to run out of moves.
-
+![](https://github.com/ReevesyD/Tetress/blob/main/tetress_gif.gif)
 ## How To Run:
 ```
 python3 -m referee <agent1> <agent2>
